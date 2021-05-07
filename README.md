@@ -1,5 +1,5 @@
 # XAML-CHAT
-<h4> :blush: :blush: :blush:  One of my old project. A XAML Chat in C#, SQL Server and XAML</h4>
+<h4> :blush: :blush: :blush:  One of my old project. An Intreactive Chat/Audio call /Video Call interface using  in C#, SQL Server and WPF/XAML</h4>
 <h4> :blush: :blush: :blush:  It looks like microsoft lync interface </h4>
 <h4>Screens</h4>
 <p align="center">
