@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="LPE_Chat.User_Controlls._Contacts"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300" Width="235" Height="50" BorderBrush="Black" Background="#FFF3F3F3" FontFamily="Trebuchet MS" Cursor="Hand">
+    <Grid x:Name="_grd">
+        <Image x:Name="_imgProfile" HorizontalAlignment="Left" Height="45" VerticalAlignment="Top" Width="45" Margin="3,2,0,0" Source="/LPE_Chat;component/Resources/Images/profile.png"/>
+        <Image x:Name="_imgStatus" HorizontalAlignment="Left" Height="12" Margin="55,10,0,0" VerticalAlignment="Top" Width="12" Source="/LPE_Chat;component/Resources/Status/online.png"/>
+        <TextBlock x:Name="_txtName" Margin="74,5,10,24" TextWrapping="Wrap" FontSize="16" Foreground="#FF818181"/>
+        <TextBlock x:Name="_txtUsrname" Margin="74,26,10,8" TextWrapping="Wrap" Foreground="#FF00A2FF"/>
+
+    </Grid>
+</UserControl>
